@@ -2,13 +2,12 @@ Hi world, my name is Marcos Estrada and im here to disscus some things about me!
 
 One thing you should know about me is that i go to an amazing high school called Dominguez High School!
 
-<img src="https://image.maxpreps.io/school-mascot/1/e/9/1e991986-5beb-4f01-9b63-7657e25cde59.gif?version=636615898200000000&amp;width=1024&amp;height=1024" alt="Dominguez High School (Compton, CA) Varsity Softball"/>![image](https://user-images.githubusercontent.com/53889745/228309338-32d59faf-32de-43c6-9906-0e4f051c76c6.png)
+<img src="https://pbs.twimg.com/profile_images/1304830846222778368/gIynCkSW_400x400.jpg" alt="Dominguez High School (@DominguezHSDons) / Twitter"/>![image](https://user-images.githubusercontent.com/53889745/228309655-fbc5dc48-bd29-468b-951e-152b484a5ef2.png)
 
 
 Another thing about me you would like to know is that i play an interesting sport called Volleyball  
 
-<img src="https://d3jycsk0m72ya7.cloudfront.net/images/2023/3/8/022423-USC-MVB-STANFORD_JMZ_8744.jpg?width=1128&amp;height=635&amp;mode=crop&amp;scale=both&amp;format=jpg&amp;quality=80" alt="Men&#39;s Volleyball - USC Athletics"/>![image](https://user-images.githubusercontent.com/53889745/228309151-aa68e481-7a37-4ae6-8bdc-780da9b357de.png)
-
+<img src="https://cdn.britannica.com/08/190908-131-A6B6D47D/Volleyball-match.jpg" alt="Volleyball | Definition, History, Rules, Positions, Court, &amp; Facts |  Britannica"/>![image](https://user-images.githubusercontent.com/53889745/228305688-66fd5676-d87c-4109-8e44-a783aef27794.png)
 
 And lastly, i love working out
 
