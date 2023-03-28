@@ -4,7 +4,7 @@ One thing you should know about me is that i go to an amazing high school called
 
 Another thing about me you would like to know is that i play an interesting sport called Volleyball  
 
-<img src="https://cdn.britannica.com/08/190908-131-A6B6D47D/Volleyball-match.jpg" alt="Volleyball | Definition, History, Rules, Positions, Court, &amp; Facts |  Britannica"/>![image](https://user-images.githubusercontent.com/53889745/228305688-66fd5676-d87c-4109-8e44-a783aef27794.png)
+<img src= alt="Volleyball | Definition, History, Rules, Positions, Court, &amp; Facts |  Britannica"/>![image](https://user-images.githubusercontent.com/53889745/228305688-66fd5676-d87c-4109-8e44-a783aef27794.png)
 
 And lastly, i love working out
 
