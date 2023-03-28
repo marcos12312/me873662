@@ -2,7 +2,7 @@ Hi world, my name is Marcos Estrada and im here to disscus some things about me!
 
 One thing you should know about me is that i go to an amazing high school called Dominguez High School!
 
-<img src="https://pbs.twimg.com/profile_images/1304830846222778368/gIynCkSW_400x400.jpg" alt="Dominguez High School (@DominguezHSDons) / Twitter"/>
+      <img src="https://pbs.twimg.com/profile_images/1304830846222778368/gIynCkSW_400x400.jpg" alt="Dominguez High School (@DominguezHSDons) / Twitter"/>
 
 Another thing about me you would like to know is that i play an interesting sport called Volleyball.
 
